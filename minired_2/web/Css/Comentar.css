@@ -1,0 +1,97 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 23 abr 2023, 01:51:57
+    Author     : gamae
+*/
+header {
+  background-color: #60CA67;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+}
+
+.header-right {
+  float: right;
+  margin-right: 20px;
+  margin-top: 12px;
+}
+
+.header-right a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+.header-right a:hover {
+  border-bottom: 2px solid #fff;
+}
+
+.header-separator {
+  border-left: 1px solid #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 25px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1 {
+  text-align: center;
+}
+body {
+margin-top: 70px; /* para dejar espacio y que no se oculte el contenido detrás del header */
+font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+form {
+text-align: center; /* para que los formularios estén centrados */
+margin-top: 30px; /* para dejar espacio entre el header y el formulario */
+}
+
+textarea {
+width: 80%; 
+height: 150px; 
+margin-top: 10px; 
+}
+
+input[type="submit"] {
+background-color: #60CA67; 
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+font-size: 18px;
+cursor: pointer;
+margin-top: 10px; 
+}
+
+button[type="submit"] {
+background-color: #60CA67; /* para que el botón tenga el mismo color que el header */
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+font-size: 18px;
+cursor: pointer;
+margin-top: 10px; /* para dejar espacio entre el botón de volver y el siguiente formulario */
+}
+button[type="submit"]:hover,
+input[type="submit"]:hover {
+  background-color: #4ca959;
+}
+footer{
+    height:7%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: #7AF081;
+}

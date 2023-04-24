@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/gamae/Desktop/minired_2/web/editars.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Controlador/Controladorcomentarios.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Interfaces/Crud.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/comentar.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Servlets/Login.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/signin.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/gestor.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/comprobar.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Controlador/Controlador.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/index.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Contacto.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Imagenes/twitter.png</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Javascript/validarsigin.js</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/ModeloDAO/UsuarioDAO.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/vistacomentarios.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Modelo/Usuario.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/Modelo/Comentario.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/principal.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/Vistascomentarios.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/signin.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/Contacto.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/editarc.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/gestarsesion.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/login.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/menucss.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/config/Conexion.java</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/comprobar.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/eds.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Javascript/Validarcomentario.js</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/vistacomentariosp.jsp</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Javascript/Validarcambio.js</file>
+            <file>file:/D:/gamae/Desktop/minired_2/web/Css/Comentar.css</file>
+            <file>file:/D:/gamae/Desktop/minired_2/src/java/ModeloDAO/ComentarioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
